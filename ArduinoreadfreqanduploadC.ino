@@ -14,8 +14,8 @@
 
 // set hot spot here
 const char* host = "esp32";
-const char* ssid = "HUAWEI Mate 20";
-const char* password = "a2658076!";
+const char* ssid = "xxxxxa";
+const char* password = "xxxxx";
 
 // Potentiometer is connected to GPIO 35 (Analog ADC1_CH6) 
 const int inputPin = 35;
